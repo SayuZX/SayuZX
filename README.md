@@ -2,7 +2,7 @@
 
 --- 
 
-## My code is made with:
+## Made with:
 - [ ] Love
 - [x] `CTRL+C` & `CTRL+V`
 
