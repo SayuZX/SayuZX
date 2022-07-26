@@ -1,4 +1,4 @@
-![Alune](https://github.com/Lunahax/Lunahax/blob/main/ezgif-4-a5b3bee66d.gif?raw=true)
+![Alune](https://github.com/Lunahax/Lunahax/blob/main/rgbname_alune.gif?raw=true)
 
 <img src="https://komarev.com/ghpvc/?username=Lunahax&label=Profile%20Views&color=5600ff&style=flat&label=Profile visits" alt="Visits" align="center"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5600ff&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Lunahax" alt="Profile Stars" align="center"></a>
