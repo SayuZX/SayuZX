@@ -5,6 +5,7 @@
 ## Made with:
 - [ ] Love
 - [x] `CTRL+C` & `CTRL+V`
+- [x] Code
 
 ---
 
@@ -28,7 +29,7 @@
 # GitHub Stats:
 
 ### Contributions:
-![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
+![Snek eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
 ### Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunahax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
