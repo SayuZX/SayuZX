@@ -2,7 +2,7 @@
 <h3 align="center">Discord Bot Developer since 2019</h3>
 
 ```sh-session
-npm install brain
+shutdown -s
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunahax&label=Profile%20views&color=0e75b6&style=flat" alt="lunahax" /> </p>
