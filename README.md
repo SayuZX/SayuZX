@@ -1,7 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Alune!</h1>
 <h4 align="center">Discord Bot Developer since 2019 :)</h4>
 
----
+<img src="https://komarev.com/ghpvc/?username=Lunahax&label=Profile%20Views&color=5600ff&style=flat&label=Profile visits" alt="Visits"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5600ff&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Lunahax" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5600ff&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Lunahax" alt="Profile Forks"></a>
+<p align="center">My stats suck :ꓷ</p>
 
 ## My code is made with:
 - [ ] Love
