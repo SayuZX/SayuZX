@@ -32,10 +32,7 @@
 # 📊 GitHub Stats:
 
 ### Contributions:
-![Snake animation](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
-
-### Stats Overview:
-![](https://github-readme-stats.vercel.app/api?username=Lunahax&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
 ### Most Used Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunahax&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
