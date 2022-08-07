@@ -1,4 +1,4 @@
-![Alune](https://github.com/Lunahax/Lunahax/blob/main/rgbname_alune.gif?raw=true)
+# ALUNE / LUNAHAX
 ![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
 ---
