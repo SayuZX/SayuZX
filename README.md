@@ -10,3 +10,11 @@ I code random stuff like **Discord Bots**, **Websites**, **"Software"** and othe
 
 ![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
+# Repositories
+
+## VAL0ADER
+![VAL0ADER](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_header.jpg)
+
+
+## PWC (private)
+![String Tool](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_st.jpg)
