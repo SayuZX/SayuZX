@@ -13,8 +13,9 @@ I code random stuff like **Discord Bots**, **Websites**, **"Software"** and othe
 # Repositories
 
 ## VAL0ADER
-![VAL0ADER](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_header.jpg)
-
+[![VAL0ADER](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_header.jpg)](https://github.com/Lunahax/VAL0ADER)
 
 ## PWC (private)
-![String Tool](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_st.jpg)
+[![String Tool](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_st.jpg)](https://github.com/Lunahax/)
+
+# Socials
