@@ -19,3 +19,6 @@ VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0A
 ## PWC (private)
 [![String Tool](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_st.jpg)](https://github.com/Lunahax/)
 PWC, also known as String Tool, is an efficient tool which makes use of randomized strings to generate gift card codes, keys, passwords and more.
+
+## Discord Server for VAL0ADER
+https://discord.gg/v4l
