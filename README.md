@@ -12,10 +12,10 @@ I code random stuff like Discord Bots, Websites, Softwares, Cheetos, etc..
 
 # Repositories
 
-## VAL0ADER
+## [VAL0ADER](https://github.com/Lunahax/VAL0ADER)
 VAL0ADER is a free, upcoming Loader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mb0ts, ESPs, Tracers, Custom Accuracy Settings and more.
 
-## V4L
+## [V4L](https://github.com/Lunahax/V4L)
 CBot for VALORANT
 
 ## PWC (private repo)
