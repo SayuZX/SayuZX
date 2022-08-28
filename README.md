@@ -6,7 +6,7 @@
 
 ## 👋 Hey there,
 I'm Lunahax, also known under other names like LunaR, Lunatic or Alune.<br>
-I code random stuff like **Discord Bots**, **Websites**, **"Software"** and other.
+I code random stuff like Discord Bots, Websites, Softwares, Cheetos, etc.. 
 
 ![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
