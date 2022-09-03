@@ -10,16 +10,10 @@ I code random stuff like Discord Bots, Websites, Softwares, Cheetos, etc..
 
 ![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
 
-# Repositories
+# Top Repository
 
 ## [VAL0ADER](https://github.com/Lunahax/VAL0ADER)
 VAL0ADER is a Cheetloader for the game VALORANT from Riot Games. VAL0ADER comes with features like A1mb0ts, ESPs, Tracers, Custom Accuracy Settings and more.
-
-## [V4L](https://github.com/Lunahax/V4L)
-CBot for VALORANT
-
-## PWC (private repo)
-PWC, also known as String Tool, is an efficient tool which makes use of randomized strings to generate gift card codes, keys, passwords and more.
 
 ## Discord
 Alune#9045
