@@ -27,3 +27,5 @@ VALORANT Color Aimbot
 ## Discord
 Alune#9045
 https://discord.gg/v4l
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></p>
