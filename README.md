@@ -41,4 +41,4 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></p>
+<p>&nbsp;<a href="https://github.com/Lunahax/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></a></p>
