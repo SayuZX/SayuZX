@@ -1,32 +1,44 @@
-![Lunahax](https://raw.githubusercontent.com/Lunahax/Lunahax/main/img/gh_lh.jpg)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h1 align="center">
+  🌙 Lunahax 🌙
+</h1>
 
-## 👋 Hey there,
-I'm Lunahax, also known under other names like LunaR, Lunatic or Alune.<br>
-I code random stuff like Discord Bots, Websites, Softwares, Cheetos, etc.. 
+<h2 align="center">
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/javascript-303030?style=for-the-badge&logo=javascript&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/python-303030?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/c++-303030?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/html-303030?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/css-303030?style=for-the-badge&logo=css3&logoColor=white"></a>
+</h2>
 
-![Sneke eating my contributions :O](https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg)
+---
 
-# Top Repositories
+<h2 align="center">
+  ☄️ Socials ☄️
+</h2>
 
-## [VAL0ADER](https://github.com/Lunahax/VAL0ADER)
-VAL0ADER is a Cheatloader for the game VALORANT from Riot Games. VAL0ADER comes with features like Aimbots, ESPs, Tracers, Custom Accuracy Settings and more
+<p align="center">
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/Lunahax-303030?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://discord.gg/v4l"><img src="https://img.shields.io/badge/Alune-303030?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://twitch.tv/asg_lunatic"><img src="https://img.shields.io/badge/asg__lunatic-303030?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/LunaR-303030?style=for-the-badge&logo=valorant&logoColor=white"></a>
+<a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
+</p>
 
-## [VAL0ADER INSTALLATION GUIDE](https://github.com/Lunahax/VAL0ADER-Installation-Guide)
-A complete installation guide for VAL0ADER
+---
 
-## [ETERNAL](https://github.com/Lunahax/ETERNAL)
-VALORANT Aimbot + ESP
+<h2 align="center">
+  🌟 Top Repositories 🌟
+</h2>
 
-## [V4L](https://github.com/Lunahax/V4L)
-VALORANT Color Aimbot
+<h3 align="center"><a href="https://github.com/Lunahax/VAL0ADER">VAL0ADER</a></h3>
+<p align="center">VALORANT Aimbot, ESP, Visuals & more</p>
+<br>
+<h3 align="center"><a href="https://github.com/Lunahax/VAL0ADER-Installation-Guide">VAL0ADER INSTALLATION GUIDE</a></h3>
+<p align="center">A complete installation guide for VAL0ADER</p>
+<br>
+<h3 align="center"><a href="https://github.com/Lunahax/ETERNAL">ETERNAL</a></h3>
+<p align="center">VALORANT Aimbot + ESP</p>
 
-## Discord
-Alune#9045
-https://discord.gg/v4l
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></p>
