@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌙 Lunahax 🌙
+    Rᴀʏʜᴀɴ⁷⁷
 </h1>
 
 <h2 align="center">
@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">
-  ☄️ Socials ☄️
+    Socials
 </h2>
 
 <p align="center">
@@ -27,14 +27,14 @@
 ---
 
 <h2 align="center">
-  🌟 Top Repositories 🌟
+   Top Repositories
 </h2>
 
-<h3 align="center"><a href="https://github.com/Lunahax/VAL0ADER">VAL0ADER</a></h3>
-<p align="center">VALORANT Aimbot, ESP, Visuals & more</p>
+<h3 align="center"><a href="https://github.com/SayuZX/device_realme_spaced">RMX3151</a></h3>
+<p align="center">Device Tree</p>
 <br>
-<h3 align="center"><a href="https://github.com/Lunahax/ETERNAL">ETERNAL</a></h3>
-<p align="center">VALORANT Aimbot + ESP</p>
+<h3 align="center"><a href="https://github.com/SayuZX/vendor_realme_spaced">RMX3151</a></h3>
+<p align="center">Vendor Tree</p>
 
 ---
 
