@@ -26,16 +26,4 @@
 
 ---
 
-<h2 align="center">
-   Top Repositories
-</h2>
-
-<h3 align="center"><a href="https://github.com/SayuZX/device_realme_spaced">RMX3151</a></h3>
-<p align="center">Device Tree</p>
-<br>
-<h3 align="center"><a href="https://github.com/SayuZX/vendor_realme_spaced">RMX3151</a></h3>
-<p align="center">Vendor Tree</p>
-
----
-
 <p>&nbsp;<a href="https://github.com/Lunahax/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lunahax&show_icons=true&locale=en" alt="lunahax" /></a></p>
