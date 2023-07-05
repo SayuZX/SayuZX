@@ -13,8 +13,6 @@
 ---
 
 <h2 align="center">
-    Socials
-</h2>
 
 <p align="center">
 <a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
