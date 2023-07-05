@@ -17,8 +17,6 @@
 </h2>
 
 <p align="center">
-<a href="https://discord.gg/EZT7CbGkdB"><img src="https://img.shields.io/badge/Alune-303030?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/Lunahax"><img src="https://img.shields.io/badge/LunaR-303030?style=for-the-badge&logo=valorant&logoColor=white"></a>
 <a href="https://github.com/Lunahax"><img src="https://github.com/Lunahax/Lunahax/blob/output/github-contribution-grid-snake.svg"></a>
 </p>
 
