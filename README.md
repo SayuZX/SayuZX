@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="img/raihan-nugroho-banner.png" width="100%" alt="Raihan Nugroho — Web and Mobile Developer, UI and UX Designer">
+  <img src="https://raw.githubusercontent.com/SayuZX/SayuZX/main/img/raihan-nugroho-banner-cropped.png" alt="Raihan Nugroho — Web and Mobile Developer, UI and UX Designer"><br>
 </p>
